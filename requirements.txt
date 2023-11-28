@@ -1,0 +1,7 @@
+pydub=0.25.1
+sox=1.26.2
+pygame=2.5.2
+sounddevice=1.16.0
+soundfile=1.16.0
+ffmpy
+SpeechRecognition
